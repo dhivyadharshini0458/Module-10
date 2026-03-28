@@ -33,7 +33,8 @@ print(q)
 ```
 
 ### Output:
-![Uploading Screenshot 2026-03-28 085310.png…]()
+<img width="444" height="379" alt="Screenshot 2026-03-28 085310" src="https://github.com/user-attachments/assets/9587b1da-8191-49c9-ad6b-2e8c638f0c3b" />
+
 
 
 ## Result:
